@@ -1,3 +1,7 @@
+...
+echo '<a class="btn btn-danger" href="delete.php?id='.$row['id'].'">Delete</a>';
+...
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
