@@ -2,7 +2,7 @@
 class Database
 {
     private static $dbName = 'app' ;
-    private static $dbHost = '192.168.1.145' ;
+    private static $dbHost = '172.17.0.2' ;
     private static $dbUsername = 'appuser';
     private static $dbUserPassword = '1234';
      
